@@ -1,4 +1,4 @@
-class User < ApplicationRecord
+class User
 
     def initialize
         
